@@ -31,9 +31,9 @@ WpKiller es una herramienta de enumeración para WordPress que detecta la versi�
    pip install -r requirements.txt
    ```
 5. Ejecuta la herramienta
-  ```sh
-  python3 wpkiller.py
-  ```
+   ```sh
+   python3 wpkiller.py
+   ```
 ## Uso
 
 Al ejecutar la herramienta se te pedira la URL del sitio. Aquí debes poner la dirección completa del sitio WordPress que quieres analizar:
