@@ -2,7 +2,9 @@
 WpKiller es una herramienta de enumeración para WordPress que detecta la versión y múltiples endpoints expuestos de la API REST. Compatible con Linux y Windows y escrito en python
 
 ## Roadmap
-- [ ] Test
+- [ ] Añadir enumeración de plugins.
+- [ ] Implementar fuerza bruta contra usuarios mediante xmlrpc.php.
+- [ ] Añadir más endpoints para enumerar.
 
 ## Instalación
 
