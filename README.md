@@ -33,6 +33,7 @@ Usa el comando 'help' dentro de la herramienta para mostrar las opciones:
 ## Instalación (Windows) ⛏️
 ### 1) Mediante ejecutable
 Descarga la última versión desde la sección de releases de GitHub.
+
 Puedes acceder directamente aquí:  
 [Instalar la última versión aquí](https://github.com/k4ixer/WpKiller/releases/latest)
 ### 2) Mediante terminal (Requiere tener instalado python)
